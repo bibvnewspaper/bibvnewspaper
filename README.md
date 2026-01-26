@@ -9,3 +9,7 @@ This account is currently ran unofficially by Hengsheng Wang on behalf of the BA
 The BASIS Independent Bellevue Newsletter is a club at BIBV.
 - Our Newsletter Title is "On a MONTHLY BASIS" (the pun is very fun, right?)
 - We publish a new newsletter every month
+
+## Site Planning
+- Probably organize a Codespace or organization or something, but that costs money
+- Currently trying to figure out logistics for contributing, etc.
