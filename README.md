@@ -13,3 +13,10 @@ The BASIS Independent Bellevue Newsletter is a club at BIBV.
 ## Site Planning
 - Probably organize a Codespace or organization or something, but that costs money
 - Currently trying to figure out logistics for contributing, etc.
+
+## Contributor List
+- Further edits may be determined in the future; currently planned as:
+  - Hengsheng (conquerer-of-tourist) contributing from personal account.
+  - Main merges can be made on this account.
+  - Maybe I can get some other people to help out with LOGISTICS
+  - Link @ `bibvnewspaper.github.io`
