@@ -1,36 +1,39 @@
 # ReadME for the BIBV Newspaper
-
-This account is currently ran unofficially by Hengsheng Wang on behalf of the BASIS Independent Bellevue's newspaper team. In the future, we are planning on
-- Creating a repository for our Github Pages website, where we will post our monthly newsletters.
-- We will also add additional relevant content there, such as audio transcripts and videos of interviews, etc.
+## Hi There! 👋
+This is the owner (managing) account for the BASIS Independent Bellevue Newspaper, called "On a Monthly BASIS", ran unofficially by Hengsheng Wang on behalf of the school's actual newspaper team. In the future, projects we are considering and planning include:
+- Creating a repository for our Github Pages website, where we will post our monthly newsletters. (Finished; contributing is still underway)
+- We will also add additional relevant content there, such as audio transcripts, videos of interviews, and puzzles.
 
 ## About US
-
-The BASIS Independent Bellevue Newsletter is a club at BIBV.
+The BASIS Independent Bellevue Newsletter is a student-led club at BIBV.
 - Our Newsletter Title is "On a MONTHLY BASIS" (the pun is very fun, right?)
-- We publish a new newsletter every month
+- We publish a meticulously written and designed newsletter every month with updates on all sorts of interesting events happening in our intellectual society.
 
 ## Site Planning
-- Probably organize a Codespace or organization or something, but that costs money
-- Currently trying to figure out logistics for contributing, etc.
+- The site will be hosted on Github Pages with a main URL of `bibvnewspaper.github.io`
+- A home page dedicated as an introduction to who we are
+- There will be subpages such as "About Us" and "Archives", and in the (not too distant) future, we will add pages for every article
+- It is planned that we will upload the PDF of the newspaper every time in a clear format.
 
-## Contributor List
+## Contributor Lists + Collaboration
 - Further edits may be determined in the future; currently planned as:
-  - Hengsheng (conquerer-of-tourist) contributing from personal account.
+  - Hengsheng (`conquerer-of-tourist`) contributing from his personal account.
   - Main merges can be made on this account.
   - Maybe I can get some other people to help out with LOGISTICS
   - Link @ `bibvnewspaper.github.io`
 
-# Outlines for the BIBV Website
+## Outlines for the style of the pages
+- After doing much research online with ChatGPT, as well as asking people who made nice organization websites, including
+  - members of the Competitive Programming Initiative (the people who wrote the USACO Guide)
+  - Andrew Chen (writer of `wamomath.org`)
 
-Written by Hengsheng Wang (January 27th, 2026)
-* Home Page:
-  * We can have some sort of header introducing ourselves as the On a Monthly BASIS newspaper
-  * Have the latest release right below the header
-  * Have some sort of bar at the top for navigation (incorporate some kind of aesthetic design)
-* The baseline host could probably be some sort of static thingy.. using a Jekyll template could also make things really easy
-* It is important to have an archives page for newspapers for previous years; we should also
-  * Incorporate individual article pages
-  * Some sort of "Who we are" page
+It is appealing to..
+- Use a nice theme with Inter and minimalistic overall design
+- One thing I noticed is that it is important to incorporate thin lines for rounded corners but for the aesthetics,
+  - Retain a fixed rounding for corners
+  - Add regular rectangles as well
  
-For styles, I found a lot of CPI members using cool tools like NextJS; the USACO Guide formatting is also very appealing.
+Some givens for the website design.. probably the use of MDX and Tailwind CSS for its nice looks.
+
+--------
+This file was written by Hengsheng Wang over January 23-29, updated constant. 5 Commits.
