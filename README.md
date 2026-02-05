@@ -1,7 +1,7 @@
 # ReadME for the BIBV Newspaper
 ## Hi There! 👋
-This is the owner (managing) account for the BASIS Independent Bellevue Newspaper, called "On a Monthly BASIS", ran unofficially by Hengsheng Wang on behalf of the school's actual newspaper team. In the future, projects we are considering and planning include:
-- Creating a repository for our Github Pages website, where we will post our monthly newsletters. (Finished; contributing is still underway)
+Hengsheng (me) current runs this account for the BASIS Independent Bellevue Newspaper, called "On a Monthly BASIS".
+- Creating a repository for our Github Pages website, where we will post our monthly newsletters.
 - We will also add additional relevant content there, such as audio transcripts, videos of interviews, and puzzles.
 
 ## About US 
@@ -23,17 +23,8 @@ The BASIS Independent Bellevue Newsletter is a student-led club at BIBV.
   - Link @ `bibvnewspaper.github.io`
 
 ## Outlines for the style of the pages 🖌️
-- After doing much research online with ChatGPT, as well as asking people who made nice organization websites, including
-  - members of the Competitive Programming Initiative (the people who wrote the USACO Guide)
-  - Andrew Chen (writer of `wamomath.org`)
-
-It is appealing to..
-- Use a nice theme with Inter and minimalistic overall design
-- One thing I noticed is that it is important to incorporate thin lines for rounded corners but for the aesthetics,
-  - Retain a fixed rounding for corners
-  - Add regular rectangles as well
- 
-Some givens for the website design.. probably the use of MDX and Tailwind CSS for its nice looks.
+- Implementation of NextJS with help of Astro
+- Main content is shown with MDX.
 
 --------
-This file was written by Hengsheng Wang over January 23-29, updated constant. 5 Commits.
+Last Updated Feb 4th, 2026. Hengsheng Wang.
